@@ -1,0 +1,101 @@
+## `msgid`s in this file come from POT (.pot) files.
+##
+## Do not add, change, or remove `msgid`s manually here as
+## they're tied to the ones in the corresponding POT file
+## (with the same domain).
+##
+## Use `mix gettext.extract --merge` or `mix gettext.merge`
+## to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: nb\n"
+
+#: web/templates/admin/analytics/views.html.eex:41
+msgid "All-time"
+msgstr "Fra begynnelsen"
+
+#: lib/brando_analytics/menus/analytics_menu.ex:9
+#: web/templates/admin/analytics/referrals.html.eex:1
+#: web/templates/admin/analytics/views.html.eex:1
+msgid "Analytics"
+msgstr "Statistikk"
+
+#: web/controllers/admin/analytics_controller.ex:36
+msgid "Analytics - referrals"
+msgstr "Statistikk - henvisninger"
+
+#: web/controllers/admin/analytics_controller.ex:21
+msgid "Analytics - views"
+msgstr "Statistikk - treff"
+
+#: web/templates/admin/analytics/referrals.html.eex:14
+#: web/templates/admin/analytics/referrals.html.eex:42
+msgid "Exits"
+msgstr "Exits"
+
+#: web/templates/admin/analytics/views.html.eex:14
+msgid "Last week"
+msgstr "Forrige uke"
+
+#: web/templates/admin/analytics/referrals.html.eex:4
+#: web/templates/admin/analytics/views.html.eex:17
+msgid "No data was found. Either nothing has been registered yet, or maybe your view_id configuration is incorrect?"
+msgstr "Fant ingen data."
+
+#: lib/brando_analytics/menus/analytics_menu.ex:12
+#: web/templates/admin/analytics/referrals.html.eex:1
+msgid "Referrals"
+msgstr "Henvisninger"
+
+#: web/templates/admin/analytics/referrals.html.eex:11
+#: web/templates/admin/analytics/referrals.html.eex:39
+msgid "Source"
+msgstr "Kilde"
+
+#: web/templates/admin/analytics/referrals.html.eex:13
+#: web/templates/admin/analytics/referrals.html.eex:41
+msgid "Time"
+msgstr "Tid"
+
+#: web/templates/admin/analytics/views.html.eex:32
+msgid "Total"
+msgstr "Totalt"
+
+#: lib/brando_analytics/menus/analytics_menu.ex:11
+#: web/templates/admin/analytics/referrals.html.eex:12
+#: web/templates/admin/analytics/referrals.html.eex:40
+#: web/templates/admin/analytics/views.html.eex:1
+msgid "Views"
+msgstr "Treff"
+
+#: web/templates/admin/analytics/views.html.eex:35
+msgid "Yesterday"
+msgstr "I går"
+
+#: web/templates/admin/analytics/views.html.eex:9
+msgid "friday"
+msgstr "fredag"
+
+#: web/templates/admin/analytics/views.html.eex:5
+msgid "monday"
+msgstr "mandag"
+
+#: web/templates/admin/analytics/views.html.eex:10
+msgid "saturday"
+msgstr "lørdag"
+
+#: web/templates/admin/analytics/views.html.eex:4
+msgid "sunday"
+msgstr "søndag"
+
+#: web/templates/admin/analytics/views.html.eex:8
+msgid "thursday"
+msgstr "torsdag"
+
+#: web/templates/admin/analytics/views.html.eex:6
+msgid "tuesday"
+msgstr "tirsdag"
+
+#: web/templates/admin/analytics/views.html.eex:7
+msgid "wednesday"
+msgstr "onsdag"
