@@ -34,10 +34,9 @@ defmodule Brando.Analytics.Mixfile do
      {:ex_machina, "~> 0.6.1", only: :test},
      {:excoveralls, "~> 0.4", only: :test},
 
-     #{:brando, github: "twined/brando", branch: "develop", optional: true},
-     {:brando, path: "../brando"},
+     {:brando, github: "twined/brando", branch: "develop", optional: true},
+     {:eightyfour, github: "twined/eightyfour"},
 
-     {:eightyfour, path: "../eightyfour"},
      # Documentation dependencies
      {:ex_doc, "~> 0.11", only: :docs},
      {:inch_ex, "~> 0.5", only: :docs}
