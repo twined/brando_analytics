@@ -4,7 +4,7 @@
     <%= gettext("No data was found. Either nothing has been registered yet, or maybe your view_id configuration is incorrect?") %>
   </div>
 <% else %>
-<h4>Last month</h4>
+<h4><%= gettext("Last month") %></h4>
 <table class="table">
   <thead>
     <tr>

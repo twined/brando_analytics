@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Language: nb\n"
 
-#: web/templates/admin/analytics/views.html.eex:41
+#: web/templates/admin/analytics/views.html.eex:42
 msgid "All-time"
 msgstr "Fra begynnelsen"
 
@@ -33,12 +33,12 @@ msgstr "Statistikk - treff"
 msgid "Exits"
 msgstr "Exits"
 
-#: web/templates/admin/analytics/views.html.eex:14
+#: web/templates/admin/analytics/views.html.eex:15
 msgid "Last week"
 msgstr "Forrige uke"
 
 #: web/templates/admin/analytics/referrals.html.eex:4
-#: web/templates/admin/analytics/views.html.eex:17
+#: web/templates/admin/analytics/views.html.eex:18
 msgid "No data was found. Either nothing has been registered yet, or maybe your view_id configuration is incorrect?"
 msgstr "Fant ingen data."
 
@@ -57,7 +57,7 @@ msgstr "Kilde"
 msgid "Time"
 msgstr "Tid"
 
-#: web/templates/admin/analytics/views.html.eex:32
+#: web/templates/admin/analytics/views.html.eex:33
 msgid "Total"
 msgstr "Totalt"
 
@@ -68,34 +68,38 @@ msgstr "Totalt"
 msgid "Views"
 msgstr "Treff"
 
-#: web/templates/admin/analytics/views.html.eex:35
+#: web/templates/admin/analytics/views.html.eex:36
 msgid "Yesterday"
 msgstr "I går"
 
-#: web/templates/admin/analytics/views.html.eex:9
+#: web/templates/admin/analytics/views.html.eex:10
 msgid "friday"
 msgstr "fredag"
 
-#: web/templates/admin/analytics/views.html.eex:5
+#: web/templates/admin/analytics/views.html.eex:6
 msgid "monday"
 msgstr "mandag"
 
-#: web/templates/admin/analytics/views.html.eex:10
+#: web/templates/admin/analytics/views.html.eex:11
 msgid "saturday"
 msgstr "lørdag"
 
-#: web/templates/admin/analytics/views.html.eex:4
+#: web/templates/admin/analytics/views.html.eex:5
 msgid "sunday"
 msgstr "søndag"
 
-#: web/templates/admin/analytics/views.html.eex:8
+#: web/templates/admin/analytics/views.html.eex:9
 msgid "thursday"
 msgstr "torsdag"
 
-#: web/templates/admin/analytics/views.html.eex:6
+#: web/templates/admin/analytics/views.html.eex:7
 msgid "tuesday"
 msgstr "tirsdag"
 
-#: web/templates/admin/analytics/views.html.eex:7
+#: web/templates/admin/analytics/views.html.eex:8
 msgid "wednesday"
 msgstr "onsdag"
+
+#: web/templates/admin/analytics/referrals.html.eex:7
+msgid "Last month"
+msgstr "Forrige måned"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Language: INSERT LANGUAGE HERE\n"
 
-#: web/templates/admin/analytics/views.html.eex:41
+#: web/templates/admin/analytics/views.html.eex:42
 msgid "All-time"
 msgstr ""
 
@@ -34,12 +34,12 @@ msgstr ""
 msgid "Exits"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:14
+#: web/templates/admin/analytics/views.html.eex:15
 msgid "Last week"
 msgstr ""
 
 #: web/templates/admin/analytics/referrals.html.eex:4
-#: web/templates/admin/analytics/views.html.eex:17
+#: web/templates/admin/analytics/views.html.eex:18
 msgid "No data was found. Either nothing has been registered yet, or maybe your view_id configuration is incorrect?"
 msgstr ""
 
@@ -58,7 +58,7 @@ msgstr ""
 msgid "Time"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:32
+#: web/templates/admin/analytics/views.html.eex:33
 msgid "Total"
 msgstr ""
 
@@ -69,34 +69,38 @@ msgstr ""
 msgid "Views"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:35
+#: web/templates/admin/analytics/views.html.eex:36
 msgid "Yesterday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:9
+#: web/templates/admin/analytics/views.html.eex:10
 msgid "friday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:5
+#: web/templates/admin/analytics/views.html.eex:6
 msgid "monday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:10
+#: web/templates/admin/analytics/views.html.eex:11
 msgid "saturday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:4
+#: web/templates/admin/analytics/views.html.eex:5
 msgid "sunday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:8
+#: web/templates/admin/analytics/views.html.eex:9
 msgid "thursday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:6
+#: web/templates/admin/analytics/views.html.eex:7
 msgid "tuesday"
 msgstr ""
 
-#: web/templates/admin/analytics/views.html.eex:7
+#: web/templates/admin/analytics/views.html.eex:8
 msgid "wednesday"
+msgstr ""
+
+#: web/templates/admin/analytics/referrals.html.eex:7
+msgid "Last month"
 msgstr ""

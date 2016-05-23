@@ -1,4 +1,5 @@
 <h1><%= gettext("Analytics") %> | <%= gettext("Views") %></h1>
+
 <%
   weekdays = %{
     "0" => gettext("sunday"),
