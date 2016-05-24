@@ -8,23 +8,29 @@
   }
 
   .views-box {
-    background-color: #fafafa;
+    background-color: #FFE200;
+    border-bottom: 5px solid #D8CC70;
+    color: #000;
     padding: 15px;
     display: inline-block;
-  }
+    min-width: 145px;
 
-  dt {
-    text-transform: uppercase;
-    font-size: 11px;
-    font-weight: bold;
-    text-align: center;
-    padding-bottom: 10px;
-  }
+    dt {
+      text-transform: uppercase;
+      font-size: 11px;
+      font-family: "a-mono";
+      font-weight: bold;
+      text-align: center;
+      padding-bottom: 15px;
+      border-bottom: 2px solid #fff;
+      margin-bottom: 15px;
+    }
 
-  dd {
-    padding: 0;
-    margin: 0;
-    font-family: "a-mono";
-    font-size: 34px;
+    dd {
+      padding: 0;
+      margin: 0;
+      font-size: 34px;
+      text-align: center;
+    }
   }
 }
