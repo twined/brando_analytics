@@ -28,11 +28,12 @@ defmodule Brando.Analytics.Mixfile do
   end
 
   defp deps do
-    [{:phoenix, "~> 1.1"},
+    [{:phoenix, "~> 1.2"},
      {:gettext, "~> 0.11"},
 
-     {:ex_machina, "~> 0.6.1", only: :test},
-     {:excoveralls, "~> 0.4", only: :test},
+     # Test dependencies
+     {:ex_machina, "~> 1.0", only: :test},
+     {:excoveralls, "~> 0.5", only: :test},
 
      {:brando, github: "twined/brando", branch: "develop", optional: true},
      {:eightyfour, github: "twined/eightyfour"},
