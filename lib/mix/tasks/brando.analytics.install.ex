@@ -10,7 +10,7 @@ defmodule Mix.Tasks.BrandoAnalytics.Install do
   @new [
     # Backend scss
     {:copy, "templates/brando.analytics.install/web/static/scss/_analytics.scss",
-            "web/static/css/custom/includes/_analytics.scss"},
+            "assets/css/custom/includes/_analytics.scss"},
 
   ]
 
