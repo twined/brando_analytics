@@ -37,7 +37,7 @@ defmodule Brando.Analytics.Mixfile do
     [{:phoenix, "~> 1.3.0-rc", override: true, optional: true},
      {:gettext, "~> 0.11"},
 
-     {:eightyfour, "~> 0.1"},
+     {:eightyfour, "~> 0.2"},
 
      # Test dependencies
      {:ex_machina, "~> 2.0", only: :test},
